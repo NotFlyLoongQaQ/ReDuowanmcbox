@@ -1,4 +1,5 @@
 # ReDuowanmcbox
+这里是一个中转站，您应该阅读goto.md来前往任何地方。
 # Thanks:
 SMCL      
 Yoshioka       
