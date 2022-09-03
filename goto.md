@@ -1,6 +1,6 @@
-[bilibili](https://space.bilibili.com/1553842187)
-[pc仓库](https://github.com/NotFlyLoongQaQ/mcbox_pcmcbox)
-[在Github上，我们的组织](https://github.com/ReDuowanmcbox)
-[QQ群组]https://jq.qq.com/?wv=1027&k=skOOg6Vc
-[官网](http://mc-m.net)
-[官网(备用)](https://101.43.48.113/)
+[bilibili](https://space.bilibili.com/1553842187)       
+[pc仓库](https://github.com/NotFlyLoongQaQ/mcbox_pcmcbox)        
+[在Github上，我们的组织](https://github.com/ReDuowanmcbox)        
+[QQ群组] https://jq.qq.com/?wv=1027&k=skOOg6Vc       
+[官网](http://mc-m.net)         
+[官网(备用)](https://101.43.48.113/)         
